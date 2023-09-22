@@ -1,1 +1,1 @@
-This example demonstrates a C# dependency resolver that automatically registers dependencies with different lifetimes when interfaces are derived "IScopedLifetime", "ISingletonLifetime","ITransistLifetime".
+"This example illustrates a C# dependency resolver that automatically manages dependencies with varying lifetimes when interfaces are derived from 'IScopedLifetime,' 'ISingletonLifetime,' and 'ITransientLifetime'."
